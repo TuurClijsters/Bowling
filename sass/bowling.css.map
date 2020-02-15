@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAC,GAAG;EACpB,OAAO,EAAE,IAAI;CAIhB;;AAND,AAGI,IAHA,CAGE,WAAW,CAAA;EACT,KAAK,EAAC,IAAI;CACb",
+    "sources": [
+        "bowling.scss",
+        "pages/_front.scss"
+    ],
+    "names": [],
+    "file": "bowling.css"
+}
